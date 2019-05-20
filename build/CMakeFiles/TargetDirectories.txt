@@ -1,0 +1,3 @@
+/home/ming/path_project/Ming_path_project/build/CMakeFiles/edit_cache.dir
+/home/ming/path_project/Ming_path_project/build/CMakeFiles/rebuild_cache.dir
+/home/ming/path_project/Ming_path_project/build/CMakeFiles/path_planning.dir
